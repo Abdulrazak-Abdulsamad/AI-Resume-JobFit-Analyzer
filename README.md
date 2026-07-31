@@ -247,7 +247,12 @@ Run the CLI or UI (which use the real embedding model) for a full end-to-end che
 - **Dependency Injection** - every class accepts its collaborators as
   constructor arguments with sensible cached defaults, which is what makes
   the smoke test possible without a network connection.
+  
+## Project Demo
 
+```
+https://drive.google.com/file/d/1rufuJq9qKizmaVIQTZbAicjqjs0_aqVK/view?usp=sharing
+```
 ## Acknowledgements
 
 Special thanks and sincere appreciation to:
